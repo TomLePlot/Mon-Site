@@ -1,0 +1,30 @@
+body{
+	color: white;
+	background-color: black;
+}
+
+h1.header{
+	color: white;
+	font-size: 190%;
+}
+
+img.header{
+	width: 110.6%;
+	height: 100%;
+	margin-left: -10%;
+}
+
+div.header{
+	margin-top: -10%;
+	padding-bottom: 10%;
+}
+
+div.Box1{
+	padding-left: 43%; 
+	margin-top: -40%;
+	padding-bottom: 25%;
+}
+
+div.box1img1{
+	padding-left: 13%;
+}
